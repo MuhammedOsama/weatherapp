@@ -1,0 +1,14 @@
+.info {
+    width: 100%;
+    font-size: 20px;
+    font-weight: 200;
+    letter-spacing: 2px;
+    color: #fff;
+
+    .error {
+        color: #f00;
+        background: #fff;
+        padding: 10px;
+        font-weight: bold;
+    }
+}

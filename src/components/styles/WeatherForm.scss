@@ -1,0 +1,29 @@
+form {
+    input {
+        background-color: transparent;
+        border: 0;
+        border-bottom: solid 1px #fff;
+        width: 100%;
+        display: block;
+        padding: 10px;
+        color: #fff !important;
+        font-weight: lighter;
+        letter-spacing: 2px;
+        margin-bottom: 30px;
+        margin-right: 20px;
+        font-size: 20px;
+        outline: none;
+    }
+
+    button {
+        border: 0;
+        padding: 10px 20px;
+        margin: 0 2px;
+        border-radius: 2px;
+        letter-spacing: 1px;
+        font-size: 15px;
+        cursor: pointer;
+        background-color: #000;
+        color: #fff;
+    }
+}
